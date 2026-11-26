@@ -1,0 +1,1 @@
+﻿Repozytorium zdalne to kopia projektu przechowywana na serwerze (np. GitHub), która umożliwia tworzenie kopii zapasowych oraz wygodną wspópracę wielu osób. Pozwala ono na synchronizację wprowadzanych zmian między różnymi komputerami za pomocą poleceń takich jak git push i git pull.
